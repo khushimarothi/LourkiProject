@@ -55,8 +55,7 @@ code ,pre{
 }
 
 .navbar ul{
-    display: flex;
-    
+    display: flex;   
 }
 
 .navbar a{
@@ -258,8 +257,10 @@ code ,pre{
        height: 100%;
        }
 
-   .footer .social a{
-       margin: 0 10px;
+   .footer .social .icon{
+       margin-left: 10px;
+      
+    
    }
  /*animations*/
  @keyframes slideInFromLeft{
@@ -313,6 +314,9 @@ code ,pre{
         grid-template-rows: 1fr;
     }
    
+   .navbar .flex {
+       flex-direction: column;
+   }
     .showcase{
         height: auto;
     }
@@ -331,6 +335,7 @@ code ,pre{
         grid-column: 1;
        grid-row: 1;
      }
+     
      .features-head,
      .features-sub-head,
      .docs-head{
