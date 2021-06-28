@@ -164,6 +164,9 @@ code ,pre{
 
   
 /*cli*/
+.cli {
+ margin-bottom: 25px;
+}
    .cli .grid{
        
        grid-template-columns: repeat(3,1fr);
@@ -177,7 +180,7 @@ code ,pre{
     }
  
     .cloud{
-        
+        margin-top: 15px 0;
         color: #fff;
         background-color: #047aed;
     }
@@ -318,6 +321,7 @@ code ,pre{
    .navbar .flex {
        flex-direction: column;
    }
+
     .showcase{
         height: auto;
     }
