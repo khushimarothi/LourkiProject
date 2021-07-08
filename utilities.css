@@ -145,27 +145,26 @@
 }
 /* margin*/
 
-.my-1 {
-    margin: 16px;
+   .my-1 {
+       margin: 16px;
    }
    .my-2 {
        margin: 1.5rem 0;
       }
-      .my-3 {
+   .my-3 {
        margin: 2rem 0;
       }
-      .my-4{
+    .my-4{
          margin: 3rem 0;
       }
-      
-      .my-5 {
+    .my-5 {
        margin: 4rem 0;
       }
 
-.m-1 {
+  .m-1 {
    margin: 16px 290px;
     }
- .m-2 {
+  .m-2 {
    margin: 1.5rem 0;
     }
   .m-3 {
@@ -177,24 +176,24 @@
        }
    
   .py-1 {
-    padding: 16px 290px;
+     padding: 16px 290px;
      }
   .py-2 {
       padding: 1.5rem 0;
         }
   .py-3 {
-      padding: 2rem 0;
+    padding: 2rem 0;
         }
   .py-4{
-       padding: 3px 0;
+    padding: 3px 0;
         }
              
   .py-5 {
-        padding: 4rem ;
+    padding: 4rem 0;
         }
 
    .p-1 {
-        padding: 16px 290px;
+    padding: 16px 290px;
              }
     .p-2 {
     padding: 1.5rem 0;
